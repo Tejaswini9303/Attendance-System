@@ -21,6 +21,20 @@ Data Management: The system securely manages attendance data, keeping a record o
 
 Customization: The application can be customized to include additional features such as notifications, analytics, and integration with other educational platforms.
 
+To set up the Project- 
+Open VS Code.
+Open a new terminal within VS Code.
+Navigate to the directory where you want to create your project.
+Run the following command to create a new React app:
+npx create-react-app attendance-system
+
+Navigate into the created project directory:
+cd attendance-system
+
+In your VS Code terminal, start the development server by running:
+npm start
+
+
 Technologies Used:
 
 React: Used for building the user interface components.
@@ -36,3 +50,7 @@ License:
 This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
 
 This Class Attendance System aims to simplify attendance management for educational institutions, providing an efficient and accessible way to keep track of student attendance records.
+
+
+
+
